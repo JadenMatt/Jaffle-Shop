@@ -1,7 +1,7 @@
 sources:
   - name: jaffle_shop
     database: RAW
-    schema: DBT_JMATTHIAS
+    schema: jaffle_shop
 
     tables:
       - name: customers
