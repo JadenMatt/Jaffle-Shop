@@ -1,0 +1,9 @@
+sources:
+  - name: jaffle_shop
+    database: RAW
+    schema: DBT_JMATTHIAS
+
+    tables:
+      - name: customers
+
+      - name: orders
